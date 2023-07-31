@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("git_C#_второй семинар")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("git_дз2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("git_C#_второй семинар")]
-[assembly: System.Reflection.AssemblyTitleAttribute("git_C#_второй семинар")]
+[assembly: System.Reflection.AssemblyProductAttribute("git_дз2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("git_дз2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/git_C#_второй семинар.csproj",
-      "projectName": "git_C#_второй семинар",
-      "projectPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/git_C#_второй семинар.csproj",
+      "projectUniqueName": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз2/git_дз2.csproj",
+      "projectName": "git_дз2",
+      "projectPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз2/git_дз2.csproj",
       "packagesPath": "/home/arch-2-00/.nuget/packages/",
-      "outputPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/",
+      "outputPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arch-2-00/.nuget/NuGet/NuGet.Config"

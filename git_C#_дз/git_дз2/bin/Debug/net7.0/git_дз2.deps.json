@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "git_C#_второй семинар/1.0.0": {
+      "git_дз2/1.0.0": {
         "runtime": {
-          "git_C#_второй семинар.dll": {}
+          "git_дз2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "git_C#_второй семинар/1.0.0": {
+    "git_дз2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
