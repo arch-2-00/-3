@@ -1,0 +1,15 @@
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/bin/Debug/net7.0/git_C#_второй семинар
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/bin/Debug/net7.0/git_C#_второй семинар.deps.json
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/bin/Debug/net7.0/git_C#_второй семинар.runtimeconfig.json
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/bin/Debug/net7.0/git_C#_второй семинар.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/bin/Debug/net7.0/git_C#_второй семинар.pdb
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.csproj.AssemblyReference.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.GeneratedMSBuildEditorConfig.editorconfig
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.AssemblyInfoInputs.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.AssemblyInfo.cs
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.csproj.CoreCompileInputs.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/refint/git_C#_второй семинар.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.pdb
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/git_C#_второй семинар.genruntimeconfig.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_второй семинар/obj/Debug/net7.0/ref/git_C#_второй семинар.dll
