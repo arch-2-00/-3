@@ -1,0 +1,15 @@
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/bin/Debug/net7.0/git_дз_3
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/bin/Debug/net7.0/git_дз_3.deps.json
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/bin/Debug/net7.0/git_дз_3.runtimeconfig.json
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/bin/Debug/net7.0/git_дз_3.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/bin/Debug/net7.0/git_дз_3.pdb
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.csproj.AssemblyReference.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.AssemblyInfoInputs.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.AssemblyInfo.cs
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.csproj.CoreCompileInputs.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/refint/git_дз_3.dll
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.pdb
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/git_дз_3.genruntimeconfig.cache
+/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/Debug/net7.0/ref/git_дз_3.dll

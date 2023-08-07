@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arch-2-00/Документы/Lesson_4/git_C#/git_C#4/git_C#4.csproj": {}
+    "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/git_дз_3.csproj": {}
   },
   "projects": {
-    "/home/arch-2-00/Документы/Lesson_4/git_C#/git_C#4/git_C#4.csproj": {
+    "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/git_дз_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arch-2-00/Документы/Lesson_4/git_C#/git_C#4/git_C#4.csproj",
-        "projectName": "git_C#4",
-        "projectPath": "/home/arch-2-00/Документы/Lesson_4/git_C#/git_C#4/git_C#4.csproj",
+        "projectUniqueName": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/git_дз_3.csproj",
+        "projectName": "git_дз_3",
+        "projectPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/git_дз_3.csproj",
         "packagesPath": "/home/arch-2-00/.nuget/packages/",
-        "outputPath": "/home/arch-2-00/Документы/Lesson_4/git_C#/git_C#4/obj/",
+        "outputPath": "/home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arch-2-00/.nuget/NuGet/NuGet.Config"
