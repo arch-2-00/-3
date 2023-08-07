@@ -1,12 +1,6 @@
 ﻿Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-int count = 1;
-while (count<=num)
+for(int i=1; i <=num; i++)
 {
-    int what = count;
-    if ((what % 1) == 0)
-{
-    Console.WriteLine(Math.Pow(what,3));
-}
-count++;
+    Console.WriteLine(Math.Pow(i,3));
 }
