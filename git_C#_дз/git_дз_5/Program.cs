@@ -7,10 +7,10 @@ for (int i = 0; i < array.Length; i++)
     array[i]= new Random().Next(100,999);
     System.Console.Write(array[i]+" ");
 
-    if (array[i]%2)
+    if (array[i] %2)
 
     {
-        number= number+1;
+        number=number+1;
     }
 }
-System.Console.Write(number)
+System.Console.Write(number);

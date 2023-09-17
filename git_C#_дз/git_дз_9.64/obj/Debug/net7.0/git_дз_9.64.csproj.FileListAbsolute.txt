@@ -1,0 +1,14 @@
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.AssemblyInfoInputs.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.AssemblyInfo.cs
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.csproj.CoreCompileInputs.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\bin\Debug\net7.0\git_дз_9.64.exe
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\bin\Debug\net7.0\git_дз_9.64.deps.json
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\bin\Debug\net7.0\git_дз_9.64.runtimeconfig.json
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\bin\Debug\net7.0\git_дз_9.64.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\bin\Debug\net7.0\git_дз_9.64.pdb
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\refint\git_дз_9.64.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.pdb
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\git_дз_9.64.genruntimeconfig.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.64\obj\Debug\net7.0\ref\git_дз_9.64.dll

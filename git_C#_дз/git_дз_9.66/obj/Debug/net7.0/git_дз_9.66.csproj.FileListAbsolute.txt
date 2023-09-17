@@ -1,0 +1,4 @@
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.66\obj\Debug\net7.0\git_дз_9.66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.66\obj\Debug\net7.0\git_дз_9.66.AssemblyInfoInputs.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.66\obj\Debug\net7.0\git_дз_9.66.AssemblyInfo.cs
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_9.66\obj\Debug\net7.0\git_дз_9.66.csproj.CoreCompileInputs.cache

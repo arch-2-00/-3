@@ -13,3 +13,10 @@
 /home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_5/obj/Debug/net7.0/git_дз_5.pdb
 /home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_5/obj/Debug/net7.0/git_дз_5.genruntimeconfig.cache
 /home/arch-2-00/Документы/Lesson_4/git_C#_дз/git_дз_5/obj/Debug/net7.0/ref/git_дз_5.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.AssemblyInfoInputs.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.AssemblyInfo.cs
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.csproj.CoreCompileInputs.cache
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\refint\git_дз_5.dll
+C:\Users\arch-\OneDrive\Документы\git_учеба\-3\git_C#_дз\git_дз_5\obj\Debug\net7.0\git_дз_5.pdb
